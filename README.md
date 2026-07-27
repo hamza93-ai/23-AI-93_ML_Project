@@ -220,4 +220,4 @@ Playing-Card-Detection-YOLOv8/
 ## 👥 Authors
 
 **Group Members — BS Artificial Intelligence, DUET Karachi**
- Hamza Asif
+ - Hamza Asif
