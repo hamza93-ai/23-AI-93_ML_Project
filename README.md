@@ -2,8 +2,6 @@
 
 A real-time playing card detection system built using **YOLOv8** deep learning architecture. The model is trained to detect and classify all **52 standard playing cards** through a live webcam feed, deployed entirely in the browser using **ONNX Runtime Web**.
 
-> 👥 Group Members: 73, 93, 33, 65 | 📚 Subject: Machine Learning | 👨‍🏫 Instructor: Sir Hamza Farooqi
-
 ---
 
 ## 📋 Table of Contents
@@ -220,4 +218,7 @@ Playing-Card-Detection-YOLOv8/
 ## 👥 Authors
 
 **Group Members — BS Artificial Intelligence, DUET Karachi**
- - Hamza Asif
+- Roll No. 73
+- Roll No. 93 — Hamza Asif
+- Roll No. 33
+- Roll No. 65
