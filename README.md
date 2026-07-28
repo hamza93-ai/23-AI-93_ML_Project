@@ -2,6 +2,15 @@
 
 A real-time playing card detection system built using **YOLOv8** deep learning architecture. The model is trained to detect and classify all **52 standard playing cards** through a live webcam feed, deployed entirely in the browser using **ONNX Runtime Web**.
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-orange)
+![ONNX](https://img.shields.io/badge/ONNX-Runtime%20Web-purple)
+![JavaScript](https://img.shields.io/badge/Deployment-HTML5%20%2B%20JavaScript-yellow?logo=javascript)
+![Dataset](https://img.shields.io/badge/Dataset-Roboflow%2052%20Classes-green)
+![Platform](https://img.shields.io/badge/Platform-Google%20Colab-red?logo=googlecolab)
+![Course](https://img.shields.io/badge/Course-Machine%20Learning-blueviolet)
+![Semester](https://img.shields.io/badge/Semester-5th-lightgrey)
+
 ---
 
 ## 📋 Table of Contents
@@ -217,6 +226,8 @@ Playing-Card-Detection-YOLOv8/
 
 ## 👥 Authors
 
-**Hamza Asif — BS Artificial Intelligence, DUET Karachi**
-
----
+**Group Members — BS Artificial Intelligence, DUET Karachi**
+- Roll No. 73
+- Roll No. 93 — Hamza Asif
+- Roll No. 33
+- Roll No. 65
