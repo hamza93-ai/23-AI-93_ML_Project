@@ -224,8 +224,11 @@ Playing-Card-Detection-YOLOv8/
 
 ---
 
-## 👥 Authors
+## 👨‍💻 Author
 
-**Hamza Asif & Team — BS Artificial Intelligence, DUET Karachi**
+**Hamza Asif**  
+BS Artificial Intelligence — DUET, Karachi  
+[![GitHub](https://img.shields.io/badge/GitHub-Hamza--Asif--ai-black?style=flat-square&logo=github)](https://github.com/Hamza-Asif-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Asif-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/hamzaasif-ai)
 
 ---
